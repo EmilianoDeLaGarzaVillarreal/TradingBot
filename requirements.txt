@@ -1,0 +1,6 @@
+pandas~=2.2.3
+numpy~=2.2.1
+sqlalchemy~=2.0.34
+pymysql~=1.0.2
+matplotlib~=3.10.0
+scikit-learn~=1.5.2
